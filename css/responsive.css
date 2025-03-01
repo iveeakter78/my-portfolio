@@ -1,0 +1,229 @@
+@media(min-width:575px) and (max-width:767px){
+    /* nav part start */
+    .navbar-toggler {
+        border: 2px solid aqua;
+        background-color: hsl(180, 59%, 94%);
+    }
+    .navbar ul{
+        text-align: end;
+    }
+    .navbar i {
+        padding:5px;
+        color: aqua;
+        font-size: 24px;
+    }
+    /* nav part end */
+    /* ban part start */
+    .ban_main{
+        position: relative;
+        z-index: 2;
+    }
+    .b_icon i{
+        color: #A3A3A3;
+    }
+    /* ban part end */
+    /* about part start */
+    .ab_top p {
+        padding: 0 20px;
+    }
+    .abn {
+        gap: 15px 0;
+    }
+    .ab_end {
+        padding-right: 75px;
+    }
+    /* about part end */
+    /* what part start */
+    .wh_inn {
+        gap: 20px 0;
+    }
+    .r_main {
+        padding: 0 10px;
+    }
+}
+@media(min-width:0px) and (max-width:575px){
+    /* nav part start */
+    .navbar-toggler {
+        border: 2px solid aqua;
+        background-color: hsl(180, 59%, 94%);
+    }
+    .navbar ul{
+        text-align: end;
+    }
+    .navbar i {
+        padding:5px;
+        color: aqua;
+        font-size: 24px;
+    }
+    /* nav part end */
+    /* ban part start */
+    .ban_main{
+        position: relative;
+        z-index: 2;
+    }
+    .b_icon i{
+        color: #A3A3A3;
+    }
+    /* ban part end */
+    /* about part start */
+    .ab_top p {
+        padding: 0 20px;
+    }
+    .abn {
+        gap: 15px 0;
+    }
+    /* .ab_end {
+        padding-right: 0px;
+    } */
+    /* about part end */
+    /* what part start */
+    .wh_inn {
+        gap: 20px 0;
+    }
+    .r_main {
+        padding: 0 10px;
+    }
+    /* what part end */
+    /* amazing part start */
+    .am_main {
+        padding: 0 15px;
+    }
+    /* amazing part end */
+    /* let part start */
+    .let_inn {
+        margin: 0 15px;
+    }
+    /* let part end */
+}
+@media(min-width:768px) and (max-width:991px){
+    /* nav part start */
+    .navbar-toggler {
+        border: 2px solid aqua;
+        background-color: hsl(180, 59%, 94%);
+    }
+    .navbar ul{
+        text-align: end;
+    }
+    .navbar i {
+        padding:5px;
+        color: aqua;
+        font-size: 24px;
+    }
+    /* nav part end */
+    /* ban part start */
+    .ban_main{
+        position: relative;
+        z-index: 2;
+    }
+    .b_icon i{
+        color: #A3A3A3;
+    }
+    /* ban part end */
+    /* about part start */
+     .ab_top p {
+        padding: 0 20px;
+    } 
+     .abn {
+        gap: 15px 0;
+    }
+    .ab_end {
+        padding-right: 55px;
+    } 
+    /* about part end */
+    /* what part start */
+    .wh_inn {
+        gap: 20px 0;
+    }
+    /* what part end */
+}
+@media(min-width:992px) and (max-width:1199px){
+    /* nav part start */
+    /* .navbar-toggler {
+        border: 2px solid aqua;
+        background-color: hsl(180, 59%, 94%);
+    }
+    .navbar ul{
+        text-align: end;
+    }
+    .navbar i {
+        padding:5px;
+        color: aqua;
+        font-size: 24px;
+    } */
+    /* nav part end */
+    /* ban part start */
+    /* .ban_main{
+        position: relative;
+        z-index: 2;
+    }
+    .b_icon i{
+        color: #A3A3A3;
+    } */
+    /* ban part end */
+}
+@media(min-width:1200px) and (max-width:1400px){
+    /* nav part start */
+    /* .navbar-toggler {
+        border: 2px solid aqua;
+        background-color: hsl(180, 59%, 94%);
+    }
+    .navbar ul{
+        text-align: end;
+    }
+    .navbar i {
+        padding:5px;
+        color: aqua;
+        font-size: 24px;
+    } */
+    /* nav part end */
+    /* ban part start */
+    /* .ban_main{
+        position: relative;
+        z-index: 2;
+    }
+    .b_icon i{
+        color: #A3A3A3;
+    } */
+    /* ban part end */
+    /* about part start */
+    /* .ab_top p {
+        padding: 0 20px;
+    }
+    .abn {
+        gap: 15px 0;
+    }
+    .ab_end {
+        padding-right: 75px;
+    } */
+    /* about part end */
+    /* what part start */
+    /* .wh_inn {
+        gap: 20px 0;
+    }
+    .r_main {
+        padding: 0 10px;
+    } */
+     /* wh part end */
+}
+@media(min-width:1400px){
+
+    /* about part start
+    .ab_top p {
+        padding: 0 20px;
+    }
+    .abn {
+        gap: 15px 0;
+    }
+    .ab_end {
+        padding-right: 75px;
+    }
+    /* about part end */
+    /* what part start */
+    /* .wh_inn {
+        gap: 20px 0;
+    }
+    .r_main {
+        padding: 0 10px;
+    } */
+    /* what part end */
+}
