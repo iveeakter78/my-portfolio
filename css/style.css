@@ -484,6 +484,20 @@ img{
     font-weight: 800;
     color: #181818;
 }
+.final{
+    margin-top: 50px;
+}
+.final button{
+    padding: 18px 39px;
+    font-family: "IBM Plex Sans", serif;
+    font-size: 20px;
+    font-weight: 800;
+    color: #fff;
+    background-color: aqua;
+    border: 0;
+    border-radius: 5px;
+    margin-left: 20%;
+}
 /* let part end */
 /* footer part start */
 .f_my p{
