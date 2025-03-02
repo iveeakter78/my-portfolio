@@ -18,6 +18,9 @@
         position: relative;
         z-index: 2;
     }
+    .ban_main h1 {
+        color: aqua;
+    }
     .b_icon i{
         color: #A3A3A3;
     }
@@ -40,6 +43,12 @@
     .r_main {
         padding: 0 10px;
     }
+    /* wh part end */
+    /* let part start */
+    .final button {
+        margin-left: 32%;
+    }
+    /* let part end */
 }
 @media(min-width:0px) and (max-width:575px){
     /* nav part start */
@@ -60,6 +69,9 @@
     .ban_main{
         position: relative;
         z-index: 2;
+    }
+    .ban_main h1 {
+        color: aqua;
     }
     .b_icon i{
         color: #A3A3A3;
@@ -90,8 +102,11 @@
     }
     /* amazing part end */
     /* let part start */
-    .let_inn {
+    /* .let_inn {
         margin: 0 15px;
+    } */
+    .final button {
+        margin-left: 28%;
     }
     /* let part end */
 }
@@ -135,6 +150,11 @@
         gap: 20px 0;
     }
     /* what part end */
+    /* let part start */
+    .final button {
+        margin-left: 38%;
+    }
+    /* let part end */
 }
 @media(min-width:992px) and (max-width:1199px){
     /* nav part start */
