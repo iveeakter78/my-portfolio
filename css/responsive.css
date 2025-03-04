@@ -181,7 +181,7 @@
     } */
     /* ban part end */
 }
-@media(min-width:1200px) and (max-width:1400px){
+@media(min-width:1200px) and (max-width:1399px){
     /* nav part start */
     /* .navbar-toggler {
         border: 2px solid aqua;
@@ -246,4 +246,9 @@
         padding: 0 10px;
     } */
     /* what part end */
+    /* let part start */
+    .final button {
+        margin-left: 35%;
+    }
+    /* let part end */
 }
